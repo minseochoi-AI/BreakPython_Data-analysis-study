@@ -8,7 +8,8 @@
 3. 파이썬의 다양한 라이브러리(Pandas,Matplotlib,Seoborn)등을 이용해 데이터를 가공하고 인사이트를 도출하는 방법 학습!
 # 📁 Assignment
   💡-2주차 
-  -변수,함수 입출력 1weeks_minseo.ipynb
+  -변수,함수 입출력 
+   https://github.com/minseochoi-AI/BreakPython_Data-analysis-study#:~:text=Commit%20time-,1weeks_minseo.ipynb,-Commit%20message
   
   -과제 출처
   https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/2%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
