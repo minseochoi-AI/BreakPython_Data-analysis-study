@@ -7,5 +7,5 @@
 2. 깃허브의 저장,사용법을 배우며 자신의 학습한 내용을 관리 할 수 있는 능력 함양!
 3. 파이썬의 다양한 라이브러리(Numpy,Pandas,Matplotlib,Seoborn,XlsxWiter)등을 이용해 데이터를 가공하고 인사이트를 도출하는 방법 학습!
 # 📁 Assignment
-  -2주차 과제
+  📎-1주차 
   https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/2%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
