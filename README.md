@@ -9,7 +9,7 @@
 # 📁 Assignment
   💡-2주차 
   -변수,함수 입출력 
-   https://github.com/minseochoi-AI/BreakPython_Data-analysis-study#:~:text=Commit%20time-,1weeks_minseo.ipynb,-Commit%20message
+  https://github.com/minseochoi-AI/BreakPython_Data-analysis-study/blob/main/1weeks_minseo.ipynb
   
   -과제 출처
   https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/2%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
