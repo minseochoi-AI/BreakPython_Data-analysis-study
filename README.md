@@ -30,3 +30,6 @@
   
   -과제 출처
   https://github.com/koptimizer/Python_Breakers/blob/master/season3/quest/7%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md
+
+💡-8주차 
+  -복습 https://github.com/minseochoi-AI/BreakPython_Data-analysis-study/blob/main/8weeks_minseo.ipynb
